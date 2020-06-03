@@ -2,8 +2,6 @@
 //  ViewController.swift
 //  calculatorApp
 //
-//  Created by MAC Consultant on 4/10/19.
-//  Copyright © 2019 MAC Consultant. All rights reserved.
 //
 
 import UIKit

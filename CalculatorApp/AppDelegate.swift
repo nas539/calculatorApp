@@ -2,8 +2,6 @@
 //  AppDelegate.swift
 //  CalculatorApp
 //
-//  Created by MAC Consultant on 4/11/19.
-//  Copyright © 2019 NicholasSharp. All rights reserved.
 //
 
 import UIKit
